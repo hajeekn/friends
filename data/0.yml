@@ -1,10 +1,10 @@
-class_name: Test
+class_name: 乐特大佬
 class_desc: ''
 link_list:
-  - avatar: https://cdn.slblog.ga/pic/logo.png
-    description: 用来测试的呀!
-    link: https://blog.slqwq.cn
-    name: SLBLOG测试
+  - avatar: https://www.lete114.top/img/avatar.png
+    description: 人生只有一次，大胆的生活！！
+    link: https://www.lete114.top/
+    name: Lete乐特
     theme:
-      style: card
+      style: default
       siteImage: ''

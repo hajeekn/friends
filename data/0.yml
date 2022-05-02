@@ -1,0 +1,10 @@
+class_name: Test
+class_desc: ''
+link_list:
+  - avatar: https://cdn.slblog.ga/pic/logo.png
+    description: 用来测试的呀!
+    link: https://blog.slqwq.cn
+    name: SLBLOG测试
+    theme:
+      style: card
+      siteImage: ''

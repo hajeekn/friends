@@ -1,0 +1,24 @@
+class_name: GitHub友链
+class_desc: ''
+link_list:
+  - avatar: https://moecdn.slqwq.cn/pic/logo.png
+    description: GitHub issues申请友链测试
+    link: https://blog.slqwq.cn
+    name: GitHub测试
+    theme:
+      style: card
+      siteImage: ''
+  - avatar: https://jack-img.oss-cn-hangzhou.aliyuncs.com/img/20201204121004.jpg
+    description: 一只平凡的鸟罢了
+    link: https://lzxjack.top/
+    name: 飞鸟
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://roco.work/img/avatar-archives/0.png
+    description: 鸽子的博客肯定啥也没有(doge)
+    link: https://blog.roco.work
+    name: Roco - Blog
+    theme:
+      style: card
+      siteImage: https://img.roco.work/blog-screenshot.png

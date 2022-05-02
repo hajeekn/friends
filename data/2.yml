@@ -1,0 +1,61 @@
+class_name: Gitee友链
+class_desc: ''
+link_list:
+  - avatar: https://ahzoo.cn/img/avatar.jpg
+    description: 一个收藏回忆与分享技术的地方
+    link: https://ahzoo.cn/
+    name: 十玖八柒
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://rmt.dogedoge.com/fetch/Flexiston/storage/avatar-min.jpg
+    description: 立即行动吧，未来要自己争取
+    link: https://flesx.cn
+    name: Flexiston
+    theme:
+      style: default
+      siteImage: ''
+  - avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+    description: CC康纳百川
+    link: https://blog.ccknbc.cc
+    name: CC的部落格
+    theme:
+      style: card/item
+      siteImage: >-
+        https://cdn.jsdelivr.net/gh/ccknbc-actions/blogroll@webp/blog.ccknbc.cc.webp
+  - avatar: https://cdn.jsdelivr.net/gh/L-20021213/picture/Blog/logo.png
+    description: 这个人还没有哦!
+    link: https://sianx.com
+    name: '| 浅笑安然 |'
+    theme:
+      style: card
+      siteImage: ''
+  - avatar: https://cdn.jsdelivr.net/gh/wangdaocao/CDN/hexoImg/avatar_yourname.jpg
+    description: 隐约雷鸣 阴霾天空 但盼风雨来 能留你在此
+    link: https://daixiahu.top
+    name: 王稻草
+    theme:
+      style: card
+      siteImage: ''
+  - avatar: https://zfe.space/images/headimage.png
+    description: 我是一只鸽子。
+    link: https://zfe.space/
+    name: 小冰博客
+    theme:
+      style: item
+      siteImage: ''
+  - avatar: https://www.itciraos.cn/mysource/avatar.webp
+    description: 有朋自远方来，不亦乐乎。
+    link: https://www.itciraos.cn
+    name: 青葱雅亭
+    theme:
+      style: card
+      siteImage: >-
+        https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.itciraos.cn/
+  - avatar: https://jack-img.oss-cn-hangzhou.aliyuncs.com/img/20201204121004.jpg
+    description: 一只平凡的鸟罢了
+    link: https://lzxjack.top/
+    name: 飞鸟
+    theme:
+      style: item
+      siteImage: ''

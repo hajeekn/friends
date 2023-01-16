@@ -1,13 +1,6 @@
 class_name: GitHub友链
 class_desc: ''
 link_list:
-  - avatar: https://npm.elemecdn.com/perorepe-cdn/v1/bigger-photos/avatar.webp
-    description: GitHub issues申请友链测试
-    link: https://blog.slqwq.cn
-    name: GitHub测试
-    theme:
-      style: card
-      siteImage: ''
   - avatar: https://jack-img.oss-cn-hangzhou.aliyuncs.com/img/20201204121004.jpg
     description: 一只平凡的鸟罢了
     link: https://lzxjack.top/
